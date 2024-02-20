@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/ours.dir/src/parties.cpp.o CMakeFiles/ours.dir/src/utils.cpp.o CMakeFiles/ours.dir/src/our_recovery.cpp.o -o /home/ml/dev/KeyRecovery/bin/ours

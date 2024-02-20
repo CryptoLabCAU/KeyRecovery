@@ -1,4 +1,4 @@
-#include "../include/parties.h"
+#include "parties.hpp"
 
 PARTIES::PARTIES()
 {

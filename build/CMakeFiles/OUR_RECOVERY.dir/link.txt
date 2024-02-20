@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OUR_RECOVERY.dir/src/parties.cpp.o CMakeFiles/OUR_RECOVERY.dir/src/utils.cpp.o CMakeFiles/OUR_RECOVERY.dir/src/our_recovery.cpp.o -o /home/ml/dev/KeyRecovery/bin/OUR_RECOVERY  -Wl,-rpath,/usr/local/lib /usr/local/lib/libssl.so /usr/local/lib/libcrypto.so
